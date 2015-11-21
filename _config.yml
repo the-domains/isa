@@ -1,6 +1,6 @@
 name: isa
 favicon: null
-layout_spectrum: 0.30132093117572367
+layout_spectrum: 0.75125
 typography_spectrum: 0.3777782251127064
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.048820019932463765
-  lightness: 0.22638062853366137
-  saturation: 0.15633949195034802
-  rhythmicContrast: 0.6832214409951121
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
